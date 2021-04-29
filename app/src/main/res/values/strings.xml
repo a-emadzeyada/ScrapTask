@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Discover</string>
+    <string name="title_activity_main">Map</string>
+    <string name="title_location_permission">Location Permission</string>
+    <string name="ok">OK</string>
+    <string name="text_location_permission">You need Location Permission</string>
+</resources>
